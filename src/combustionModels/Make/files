@@ -1,0 +1,13 @@
+TFM/TFM.C
+
+FlameSensors/flameSensor/flameSensor.C
+FlameSensors/flameSensor/flameSensorNew.C
+FlameSensors/constantSensor/constantSensor.C
+FlameSensors/tanhSensor/tanhSensor.C
+
+EfficiencyFunctions/efficiencyFunction/efficiencyFunction.C
+EfficiencyFunctions/efficiencyFunction/efficiencyFunctionNew.C
+EfficiencyFunctions/noEfficiencyFunction/noEfficiencyFunction.C
+EfficiencyFunctions/powerLaw/powerLaw.C
+
+LIB = $(FOAM_USER_LIBBIN)/libTFMcombustion
